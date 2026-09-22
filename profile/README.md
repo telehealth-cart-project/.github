@@ -93,9 +93,10 @@ discussion related to ongoing Telehealth Cart work.
 <h2>Current Developments</h2>
 
 <p>
-The primary focus of current development is improving the ML
-architecture so that the telehealth cart can function as a truly modular
-screening platform.
+The original capstone established a proof-of-concept for a modular,
+ML-based telehealth cart. Current development builds on that
+framework by addressing limitations identified during the initial design and
+expanding the system toward a more deployable and adaptable platform.
 </p>
 
 <table>
